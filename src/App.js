@@ -8,9 +8,9 @@ import Home from "./pages/Home";
 function App() {
   return (
     <BrowserRouter>
-      <Header />
+      {/* <Header /> */}
       <MyRoute />
-      <Footer />
+      {/* <Footer /> */}
     </BrowserRouter>
   );
 }

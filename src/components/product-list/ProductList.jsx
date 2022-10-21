@@ -54,7 +54,6 @@ const ProductList = ({categoryName,bannerName}) => {
                       <p>
                         <Link to={`/mehsullar/${pro.id}`}>{pro.title}</Link>
                       </p>
-                      <h1>Salam</h1>
                     </div>
                   </div>
                 ))}
